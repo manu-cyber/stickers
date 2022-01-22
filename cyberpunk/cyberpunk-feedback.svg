@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100.95114mm"
+   height="56.759209mm"
+   viewBox="0 0 100.95114 56.75921"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="cyberpunk-feedback.svg"
+   inkscape:export-filename="/home/manu/1nput/cyberpunk-draft.png"
+   inkscape:export-xdpi="299.92001"
+   inkscape:export-ydpi="299.92001"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0998546"
+     inkscape:cx="-60.462537"
+     inkscape:cy="66.827015"
+     inkscape:window-width="2682"
+     inkscape:window-height="1394"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-24.116819,-18.748808)">
+    <rect
+       style="fill:#f5f300;fill-opacity:1;stroke-width:0.0572294;stroke-dasharray:0.0572294, 0.114458"
+       id="rect78035"
+       width="100.95114"
+       height="28.379499"
+       x="24.116819"
+       y="18.748808" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke-width:0.0572294;stroke-dasharray:0.0572294, 0.114458"
+       id="rect14069"
+       width="100.95114"
+       height="28.379499"
+       x="24.116819"
+       y="47.128517" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.2999px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.332499"
+       x="31.314539"
+       y="38.125519"
+       id="text21772"><tspan
+         sodipodi:role="line"
+         id="tspan21770"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.2999px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.332499"
+         x="31.314539"
+         y="38.125519">CYBERPUNK</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.50924px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.162732"
+       x="32.233536"
+       y="63.303585"
+       id="text21772-8"><tspan
+         sodipodi:role="line"
+         id="tspan21770-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.50924px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.162732"
+         x="32.233536"
+         y="63.303585">high tech low life</tspan></text>
+  </g>
+</svg>
